@@ -16,7 +16,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-https://user-images.githubusercontent.com/108556269/209846214-50cb65dd-8ef3-4161-961a-6dee972700da.png
+![Web capture_28-12-2022_12338_](https://user-images.githubusercontent.com/108556269/209836029-cd53be66-a5ea-4322-8530-a19f67f9c13e.jpeg)
  
 
 ---
